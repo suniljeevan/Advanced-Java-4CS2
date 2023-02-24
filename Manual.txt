@@ -1,0 +1,9 @@
+projects kept here
+
+one java with jdbc
+two java with jpa
+three java with jpa using hibernate
+four  java with spring orm (hibernate)
+five  java with spring orm (jpa)
+six   java with spring data jpa
+seven java with spring REST 
